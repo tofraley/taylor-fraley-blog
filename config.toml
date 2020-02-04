@@ -33,7 +33,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Taylor Fraley's Blog"
+    title = "Taylor Fraley"
     subtitle = ""
     keywords = ""
     copyright = "©2020 Taylor Fraley"
@@ -42,7 +42,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Taylor Fraley's Blog"
+      logoText = "Taylor Fraley"
       logoHomeLink = "/"
 
     [languages.en.menu]
