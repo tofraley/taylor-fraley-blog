@@ -1,6 +1,6 @@
 baseURL = "https://www.taylorfraley.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Taylor Fraley"
 theme = "terminal"
 paginate = 5
 
