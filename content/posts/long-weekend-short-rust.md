@@ -2,10 +2,11 @@
 title: "Long Weekend - Short Rust"
 date: 2020-02-03T23:03:23-05:00
 draft: false
+summary: "I went into this long weekend with the plan to work on a side project and get some practice with Rust..." 
 ---
 
 I took Monday and Tuesday off this week.  The weather was a mix of good and bad.  I managed to get some time outside on my bike, and even relaxed in the sun.  I definitely needed that.
-<!--more-->
+
 I went into this long weekend with the plan to work on a side project and get some practice with Rust.  I spent most of Saturday, and maybe an hour of Sunday working through the book "Hands-On Microservices with Rust", and didn't work on my project at all.
 
 I want to learn as much as I can, and as fast as I can.  But, learning hard things takes energy and focus.  Reading a book can be especially tricky. It's easy to feel like you are *doing* something, even when you aren't focused.  
