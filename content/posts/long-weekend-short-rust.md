@@ -2,7 +2,7 @@
 title: "Long Weekend - Short Rust"
 date: 2020-02-03T23:03:23-05:00
 draft: false
-truncated: true
+truncated: true 
 summary: "I went into this long weekend with the plan to work on a side project and get some practice with Rust..." 
 ---
 
